@@ -1,0 +1,23 @@
+title: "PS1 Gamarnik"
+author: "Dan Gamarnik"
+date: "April 14, 2018"
+output: html_document
+---
+
+
+## Part 1: Patent Data
+
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(tidytext)
+library(broom)
+library(dplyr)
+library(ggplot2)
+```
+
+```{r import, include=FALSE}
+
+read_csv()
+
+```
